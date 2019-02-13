@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-tslint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Parcel plugin for running tslint.",
   "main": "index.js",
   "repository": {
@@ -14,13 +14,13 @@
   "author": "clintharris@users.noreply.github.com",
   "license": "MIT",
   "peerDependencies": {
-    "parcel-bundler": "^1.10.3",
+    "parcel-bundler": "^1.11.0",
     "tslint": "^5.11.0",
     "typescript": "^3.1.6"
   },
   "devDependencies": {
     "@types/node": "^10.12.5",
-    "parcel-bundler": "^1.10.3",
+    "parcel-bundler": "^1.11.0",
     "tslint": "^5.11.0",
     "typescript": "^3.1.6"
   },

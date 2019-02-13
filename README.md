@@ -42,6 +42,7 @@ Clone this repo and run `npm run testWatch` or see the whole thing in action *in
 # Release Notes
 
   - 0.0.1 WIP
+  - 0.0.2 Fix for #3 (thanks @teroyks!), upgraded to Parcel 1.11.
 
 ## Dependencies
 
@@ -53,7 +54,7 @@ Clone this repo and run `npm run testWatch` or see the whole thing in action *in
 
 `parcel-plugin-tslint` assumes that you're already bringing the following to the party:
 
-  - `parcel-bundler` 1.x (tested with 1.10)
+  - `parcel-bundler` 1.x (tested with 1.11)
   - `tslint` 5.x (tested with 5.11)
   - `typescript`
 
